@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Chordsezy</string>
+    <string name="home_subtitle">Pick a chord family (key). You\'ll see its 3 major and 3 minor chords and the notes inside each one.</string>
+    <string name="chord_family_of">Chord family of %1$s</string>
+    <string name="scale_label">%1$s major scale</string>
+    <string name="chords_in_order">Chords in order · orange = major, blue = minor</string>
+    <string name="tap_to_hear">Tap a note to see every chord that has it. Tap a chord to hear it.</string>
+    <string name="chords_with_note">Chords with %1$s</string>
+    <string name="in_family">In the %1$s family</string>
+    <string name="outside_family">Other major &amp; minor chords with %1$s</string>
+    <string name="build_loop">Build a loop with these chords</string>
+    <string name="looper_title">Loop in %1$s</string>
+    <string name="tempo">Tempo</string>
+    <string name="bpm_value">%1$d BPM</string>
+    <string name="time_signature">Time signature</string>
+    <string name="bars">Bars</string>
+    <string name="metronome">Metronome click</string>
+    <string name="palette">Pick a chord, then tap beats to place it</string>
+    <string name="erase">Erase</string>
+    <string name="clear">Clear all</string>
+    <string name="preset">I–V–vi–IV</string>
+    <string name="play">Play loop</string>
+    <string name="stop">Stop</string>
+    <string name="bar_n">Bar %1$d</string>
+    <string name="grid_hint">A chord rings until the next chord. Empty beats keep the previous chord.</string>
+    <string name="now_playing">Now: %1$s  (%2$s)</string>
+</resources>
